@@ -14,10 +14,11 @@ Auto setup VPS:
 ## ⚡ Quick Start
 
 ```bash
-git clone https://github.com/damarkuncoro/vps-nginx-proxy-generator.git
-cd vps-nginx-proxy-generator
-chmod +x scripts/*.sh
-sudo ./scripts/vps-proxy-generator.sh
+    git clone https://github.com/damarkuncoro/vps-nginx-proxy-generator.git
+    cd vps-nginx-proxy-generator
+    chmod +x scripts/*.sh
+    sudo ./scripts/vps-proxy-generator.sh
+
 
 ## 🔑 Create Cloudflare secret
 
