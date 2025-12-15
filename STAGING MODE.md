@@ -207,9 +207,9 @@ docker-compose up -d
 
 # ⚠️ COMMON MISTAKES
 
-❌ Testing langsung production
-❌ Tidak hapus cert staging
-❌ DNS belum propagate
-❌ Wildcard tanpa DNS-01
+    ❌ Testing langsung production
+    ❌ Tidak hapus cert staging
+    ❌ DNS belum propagate
+    ❌ Wildcard tanpa DNS-01
 
 ---
