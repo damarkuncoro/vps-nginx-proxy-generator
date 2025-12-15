@@ -29,8 +29,6 @@ mkdir -p $PROXY_DIR/{data/nginx/{certs,vhost.d,html},secrets}
 cd $PROXY_DIR
 
 cat <<EOF > docker-compose.yml
-version: "3.8"
-
 services:
   nginx-proxy:
     image: nginxproxy/nginx-proxy

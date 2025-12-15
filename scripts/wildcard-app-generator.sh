@@ -9,8 +9,6 @@ mkdir -p $APP_DIR
 cd $APP_DIR
 
 cat <<EOF > docker-compose.yml
-version: "3.8"
-
 services:
   wildcard:
     image: nginx

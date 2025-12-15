@@ -20,6 +20,7 @@ Auto setup VPS:
     sudo ./scripts/vps-proxy-generator.sh
 
 
+
 ## 🔑 Create Cloudflare secret
 
 ```bash
